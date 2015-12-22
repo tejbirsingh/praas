@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praas.Web", "Praas.Web\Praas.Web.csproj", "{B0CB42D6-CB2D-4F36-ACC3-573AFF841799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praas.Web.Tests", "Praas.Web.Tests\Praas.Web.Tests.csproj", "{5FE0A441-64F7-4D2C-A434-FA0F2E9BFA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CB42D6-CB2D-4F36-ACC3-573AFF841799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CB42D6-CB2D-4F36-ACC3-573AFF841799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CB42D6-CB2D-4F36-ACC3-573AFF841799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CB42D6-CB2D-4F36-ACC3-573AFF841799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE0A441-64F7-4D2C-A434-FA0F2E9BFA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE0A441-64F7-4D2C-A434-FA0F2E9BFA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE0A441-64F7-4D2C-A434-FA0F2E9BFA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE0A441-64F7-4D2C-A434-FA0F2E9BFA06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
