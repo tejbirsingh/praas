@@ -9,7 +9,7 @@ namespace Praas.Web.Tests
         [TestMethod]
         public void TestMethod()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(true); 
         }
     }
 }
